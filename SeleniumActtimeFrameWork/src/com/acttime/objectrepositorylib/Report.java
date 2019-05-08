@@ -9,4 +9,8 @@ public void deleteReport() {
 		
 	}
 
+public void mtd1() {
+	
+}
+
 }
